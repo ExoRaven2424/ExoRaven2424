@@ -9,7 +9,7 @@
 - Capstone Project "Coming Soon"
 - Excel Project "Coming Soon"
 - Demo Video "Coming Soon"
-
+- https://www.linkedin.com/feed/
 <!---
 ExoRaven2424/ExoRaven2424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
